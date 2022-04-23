@@ -11,9 +11,13 @@ This page is hosted at Github Pages: [https://jeremiah-81.github.io/Streaming-Pr
 ## Screen Shots:
 
 ![screenshot1](assets/images/Screen Shot 2022-04-23 at 11.51.12 AM.png)
+
 ![screenshot2](assets/images/Screen Shot 2022-04-23 at 11.51.25 AM.png)
+
 ![screenshot3](assets/images/Screen Shot 2022-04-23 at 11.51.31 AM.png)
+
 ![screenshot4](assets/images/Screen Shot 2022-04-23 at 11.51.43 AM.png)
+
 
 *All images and graphics presented here are copyright of the respective holders. Included here under Fair Use clause of U.S. Copyright Law concerning nonprofit educational purposes. More info here: {https://www.copyright.gov/fair-use/more-info.html}(https://www.copyright.gov/fair-use/more-info.html)*
 
