@@ -22,7 +22,7 @@ This page is hosted at Github Pages: [https://cliff-rosenberg.github.io/Streamin
 ![screenshot4](./assets/images/screenshot4.png)
 
 
-*All images and graphics presented here are copyright of the respective holders. Included here under Fair Use clause of U.S. Copyright Law concerning nonprofit educational purposes. More info here: {https://www.copyright.gov/fair-use/more-info.html}(https://www.copyright.gov/fair-use/more-info.html)*
+*All images and graphics presented here are copyright of the respective holders. Included here under Fair Use clause of U.S. Copyright Law concerning nonprofit educational purposes. More info here: [https://www.copyright.gov/fair-use/more-info.html](https://www.copyright.gov/fair-use/more-info.html)*
 
 ## Credits
 
