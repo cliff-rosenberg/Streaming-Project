@@ -6,7 +6,7 @@ This project uses HTML, CSS and JavaScript to query multiple APIs to retrieve da
 
 ## Installation
 
-This page is hosted at Github Pages: [https://jeremiah-81.github.io/Streaming-Project/](https://jeremiah-81.github.io/Streaming-Project/)
+This page is hosted at Github Pages: [https://cliff-rosenberg.github.io/Streaming-Project/](https://cliff-rosenberg.github.io/Streaming-Project/)
 
 ## Screen Shots:
 
